@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on  <br>• University projects (CSE)  <br>• App development with database integration  <br>• Small system-based projects (C++, SQL)<br><br>👯 I’m looking to collaborate on  <br>• Open-source projects  <br>• Beginner-friendly cybersecurity projects  <br>• Web or software development projects<br><br>🤝 I’m looking for help with  <br>• Advanced cybersecurity concepts  <br>• System design & optimization  <br>• Real-world project architecture<br><br>🌱 I’m currently learning  <br>• Cyber Security fundamentals  <br>• Data Structures & Algorithms  <br>• Database Management Systems (DBMS)  <br>• Backend development<br><br>💬 Ask me about  <br>• C / C++ programming  <br>• SQL & database design  <br>• University CSE topics  <br>• Project planning for beginners<br><br>⚡ Fun fact  <br>• I enjoy solving problems, playing games, and cricket — code by day, grind by night 😄<br>
+### 💫 About Me
+Software engineer in progress.  
+Building skills in backend development and system design.
+
 
 
 ## 🌐 Socials:
